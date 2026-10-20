@@ -1,1 +1,1 @@
-APP_MODE=Production
+APP_MODE=production
