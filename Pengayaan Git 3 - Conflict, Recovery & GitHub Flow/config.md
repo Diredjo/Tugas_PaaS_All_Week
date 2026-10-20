@@ -1,1 +1,1 @@
-APP_MODE=production
+APP_MODE=testing
